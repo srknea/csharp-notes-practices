@@ -1,0 +1,8 @@
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetProperty\bin\Debug\ClasessGetSetProperty.exe.config
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetProperty\bin\Debug\ClasessGetSetProperty.exe
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetProperty\bin\Debug\ClasessGetSetProperty.pdb
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetProperty\obj\Debug\ClasessGetSetProperty.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetProperty\obj\Debug\ClasessGetSetProperty.csproj.SuggestedBindingRedirects.cache
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetProperty\obj\Debug\ClasessGetSetProperty.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetProperty\obj\Debug\ClasessGetSetProperty.exe
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetProperty\obj\Debug\ClasessGetSetProperty.pdb

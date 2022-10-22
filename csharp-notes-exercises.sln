@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{E0AD8170-7F4E-427D-B20D-4F16B9A8BB20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasessGetSetProperty", "ClasessGetSetProperty\ClasessGetSetProperty.csproj", "{0CDAF3BA-0FD5-45B2-AE27-B4BC3E9D62FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasessGetSetField", "ClasessGetSetField\ClasessGetSetField.csproj", "{63BAF4B9-62A8-497D-ABC0-2F58BD2AD651}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E0AD8170-7F4E-427D-B20D-4F16B9A8BB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0AD8170-7F4E-427D-B20D-4F16B9A8BB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0AD8170-7F4E-427D-B20D-4F16B9A8BB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CDAF3BA-0FD5-45B2-AE27-B4BC3E9D62FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDAF3BA-0FD5-45B2-AE27-B4BC3E9D62FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDAF3BA-0FD5-45B2-AE27-B4BC3E9D62FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDAF3BA-0FD5-45B2-AE27-B4BC3E9D62FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BAF4B9-62A8-497D-ABC0-2F58BD2AD651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BAF4B9-62A8-497D-ABC0-2F58BD2AD651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BAF4B9-62A8-497D-ABC0-2F58BD2AD651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BAF4B9-62A8-497D-ABC0-2F58BD2AD651}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

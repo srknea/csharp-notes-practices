@@ -1,0 +1,8 @@
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetField\bin\Debug\ClasessGetSetField.exe.config
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetField\bin\Debug\ClasessGetSetField.exe
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetField\bin\Debug\ClasessGetSetField.pdb
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetField\obj\Debug\ClasessGetSetField.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetField\obj\Debug\ClasessGetSetField.csproj.SuggestedBindingRedirects.cache
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetField\obj\Debug\ClasessGetSetField.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetField\obj\Debug\ClasessGetSetField.exe
+C:\Users\Serkan\Desktop\csharp-notes-exercises\ClasessGetSetField\obj\Debug\ClasessGetSetField.pdb
