@@ -4,8 +4,6 @@
 
 Gerçek uygulamalarda interface farklı implementasyonlar için kullanılır. Örneğin, biz SQL Server, ve Oracle destekli bir sistem yazmak istiyoruz. Her ikisi için de kullanacağımız teknoloji farklıdır. Bu nedenle ICustomerDal ‘ı SQL için ayrı Oracle için ayrı implemente etmemiz gerekir. 
 
-Bu bakımdan…
-
 Veri tabanına ekleme işlemi yaptığımızı düşünelim…
 
 SQL Server’ı kullanırsak SQL Server’a Oracle’ı kullanırsak Oracle’a bağımlı kalırız.
@@ -20,11 +18,11 @@ Bu sayede kullanılan veri tabanını değiştirdiğimizde aşağıdaki kırmız
 
 ![Untitled](img/Untitled%202.png)
 
-Özetle…
+Özetle:
 
 <aside>
 
-📌 Interface ‘ler gerçek hayat uygulamalarında bu şekilde katmanlar arasında geçişlerde yoğun ölçüde kullanılır. Burada amaç uygulamanın bağımlılıklarını minimize indirmektir.
+📌 Interface ‘ler gerçek hayat uygulamalarında bu şekilde katmanlar arasında geçişlerde yoğun ölçüde kullanılır. Burada amaç uygulamanın bağımlılıklarını minimize etmektir.
 
 </aside>
 
