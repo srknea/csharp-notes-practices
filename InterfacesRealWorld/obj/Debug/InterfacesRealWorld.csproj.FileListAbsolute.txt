@@ -1,0 +1,8 @@
+C:\Users\Serkan\Desktop\csharp-notes-exercises\InterfacesRealWorld\bin\Debug\InterfacesRealWorld.exe.config
+C:\Users\Serkan\Desktop\csharp-notes-exercises\InterfacesRealWorld\bin\Debug\InterfacesRealWorld.exe
+C:\Users\Serkan\Desktop\csharp-notes-exercises\InterfacesRealWorld\bin\Debug\InterfacesRealWorld.pdb
+C:\Users\Serkan\Desktop\csharp-notes-exercises\InterfacesRealWorld\obj\Debug\InterfacesRealWorld.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\csharp-notes-exercises\InterfacesRealWorld\obj\Debug\InterfacesRealWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\Serkan\Desktop\csharp-notes-exercises\InterfacesRealWorld\obj\Debug\InterfacesRealWorld.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\csharp-notes-exercises\InterfacesRealWorld\obj\Debug\InterfacesRealWorld.exe
+C:\Users\Serkan\Desktop\csharp-notes-exercises\InterfacesRealWorld\obj\Debug\InterfacesRealWorld.pdb

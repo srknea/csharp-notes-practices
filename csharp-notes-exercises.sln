@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasessGetSetField", "Clase
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{B35E7B2B-27C7-4FDD-A313-46F32FCDF096}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesRealWorld", "InterfacesRealWorld\InterfacesRealWorld.csproj", "{23BF0B20-923A-4FF0-B1B2-4264E3B2BCEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B35E7B2B-27C7-4FDD-A313-46F32FCDF096}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B35E7B2B-27C7-4FDD-A313-46F32FCDF096}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B35E7B2B-27C7-4FDD-A313-46F32FCDF096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BF0B20-923A-4FF0-B1B2-4264E3B2BCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BF0B20-923A-4FF0-B1B2-4264E3B2BCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BF0B20-923A-4FF0-B1B2-4264E3B2BCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BF0B20-923A-4FF0-B1B2-4264E3B2BCEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
