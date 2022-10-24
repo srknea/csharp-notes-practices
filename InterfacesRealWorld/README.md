@@ -34,6 +34,6 @@ Bu şekilde method parametresi olarak verdik fakat ilerleyen bölümlerde buras�
 
 ---
 
-# Other
+# Others
 
 DAL (Data Access Layer) → Veri işlerini yapmak için kullanılan sınıftır.
