@@ -1,3 +1,5 @@
+# InterfacesRealWorld
+
 ![Untitled](img/Untitled.png)
 
 ---
@@ -31,6 +33,43 @@ Bu sayede kullanılan veri tabanını değiştirdiğimizde aşağıdaki kırmız
 ![Untitled](img/Untitled%203.png)
 
 Bu şekilde method parametresi olarak verdik fakat ilerleyen bölümlerde burası constructor ile yapılacak…
+
+---
+
+# Çok Sayıda Veritanının Desteklenmesi
+
+```csharp
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace InterfacesRealWorld
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            ICustomerDal[] customerDals = new ICustomerDal[2]
+            {
+                new SqlServerCustomerDal(),
+                new OracleCustomerDal(),
+            };
+
+            foreach (var customerDal in customerDals)
+            {
+                customerDal.Add();
+
+            }
+
+            Console.ReadLine();
+        }
+    }
+}
+```
+
+![Untitled](img/Untitled%204.png)
 
 ---
 
