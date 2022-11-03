@@ -16,6 +16,6 @@ Yukarıdaki örnek hatasızdır.
 
 <aside>
 
-📌 Bir Class Birden fazla interface alabilir.
+📌 Bir Class birden fazla interface alabilir.
 
 </aside>
